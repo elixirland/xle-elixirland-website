@@ -16,7 +16,6 @@ Solution:    *In Development*
 
 ## Introduction
 
-
 ## Task
 
 ## Requirements
