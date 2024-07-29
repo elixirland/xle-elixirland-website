@@ -1,7 +1,6 @@
 # Elixirland Website
 
 ## Status
-
 Description: *In Development*<br>
 Solution:    *In Development*
 
