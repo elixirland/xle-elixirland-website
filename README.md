@@ -16,6 +16,7 @@ Solution:    *In Development*
 ## Introduction
 
 ## Task
+Build a simple version of the Elixirland website.
 
 ## Requirements
 
